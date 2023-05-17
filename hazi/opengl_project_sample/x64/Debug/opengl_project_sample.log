@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\cseng\source\repos\opengl_intro\hazi\opengl_project_sample\main.c(117,22): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\cseng\source\repos\opengl_intro\hazi\opengl_project_sample\main.c(118,22): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\cseng\source\repos\opengl_intro\hazi\opengl_project_sample\main.c(132,42): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\cseng\source\repos\opengl_intro\hazi\opengl_project_sample\main.c(132,45): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\cseng\source\repos\opengl_intro\hazi\opengl_project_sample\main.c(143,17): warning C4101: 'renderer': unreferenced local variable
+C:\Users\cseng\source\repos\opengl_intro\hazi\opengl_project_sample\main.c(144,17): warning C4101: 'version': unreferenced local variable
+  opengl_project_sample.vcxproj -> C:\Users\cseng\source\repos\opengl_intro\hazi\x64\Debug\opengl_project_sample.exe
